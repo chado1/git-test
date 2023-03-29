@@ -1,0 +1,4 @@
+Line 1 - original
+Line 2 - original
+Line 3 - original
+Line 4 - end of original

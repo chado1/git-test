@@ -2,3 +2,7 @@ Line 1 - original
 Line 2 - original
 Line 3 - original
 Line 4 - end of original
+Line 5 - added 1
+Line 6 - added 1
+Line 7 - added 1
+LIne 8 - end of added 1

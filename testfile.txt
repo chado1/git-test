@@ -14,3 +14,4 @@ Line 13 - making changes after cloning
 Line 14 - making changes in a new branch after cloning
 Line 15 - making changes after deleting branch - does it go back to main?
 Line 16 - I'm making some changes from here on github - how does VS code deal with it?
+Line 17 - How would I know that there are changes that I needed to pull?
